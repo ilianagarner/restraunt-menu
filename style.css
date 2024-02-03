@@ -1,6 +1,6 @@
 #main {
     border-style: solid;
-    border-color: purple;
+    border-color: rgb(85, 85, 238);
     border-width: 2px;
 
 }
@@ -15,10 +15,18 @@
     }
     
     #main {
-        width: 70%;
+        width: 70%
+        color: white;
     }
     
     #sidebar {
         width: 30%
+        color: white;
     }
+
+    body {
+        background-color: color: rgb(85, 85, 238);
+        color: black;
+        font-family: "PT Sans", Calibri, Tahoma, sans-serif; 
+      }
 }
